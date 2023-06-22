@@ -1,0 +1,4 @@
+.bg-image {
+    background-image: url('/website/static/images/unityreach.jpg');
+    background-size: cover;
+}
