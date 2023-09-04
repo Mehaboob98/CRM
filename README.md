@@ -1,0 +1,2 @@
+# UnityReach
+UnityReach is a comprehensive CRM project designed to assist businesses in managing their customer relationships efficiently. Its features, including the ability to add, delete, and update customer details, make it a valuable tool for maintaining accurate customer data and improving customer engagement. The system's user-friendly interface and reporting capabilities contribute to its effectiveness in enhancing overall customer relationship management.
